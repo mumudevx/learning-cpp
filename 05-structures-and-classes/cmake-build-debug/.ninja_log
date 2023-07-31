@@ -1,0 +1,6 @@
+# ninja log v5
+1	53	7124773632248738	build.ninja	54ce62f5eb412a3c
+0	218	7124773634513457	CMakeFiles/structures_and_classes.dir/main.cpp.obj	828b0033106045de
+219	260	7124773634917715	structures_and_classes.exe	925ea5cdb38f3f2f
+2	204	7124773852081017	CMakeFiles/structures_and_classes.dir/main.cpp.obj	828b0033106045de
+204	245	7124773852481503	structures_and_classes.exe	925ea5cdb38f3f2f
