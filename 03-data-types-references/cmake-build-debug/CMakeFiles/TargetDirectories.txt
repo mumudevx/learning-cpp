@@ -1,0 +1,3 @@
+C:/Users/Muhsin/CLionProjects/data-types-references/cmake-build-debug/CMakeFiles/data_types_references.dir
+C:/Users/Muhsin/CLionProjects/data-types-references/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Muhsin/CLionProjects/data-types-references/cmake-build-debug/CMakeFiles/rebuild_cache.dir
