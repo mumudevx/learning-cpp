@@ -1,0 +1,3 @@
+C:/Users/Muhsin/CLionProjects/unions/cmake-build-debug/CMakeFiles/unions.dir
+C:/Users/Muhsin/CLionProjects/unions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Muhsin/CLionProjects/unions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
