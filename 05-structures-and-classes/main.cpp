@@ -3,14 +3,12 @@
 
 using namespace std;
 
-// There is no function definitions in structs
 struct Flower {
     string name;
     string family;
     string siteType;
 };
 
-// There is available to define functions in class
 class Person {
 private:
     string _fullName;

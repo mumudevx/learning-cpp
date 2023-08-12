@@ -1,0 +1,3 @@
+C:/Users/Muhsin/CLionProjects/struct-and-class/cmake-build-debug/CMakeFiles/struct_and_class.dir
+C:/Users/Muhsin/CLionProjects/struct-and-class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Muhsin/CLionProjects/struct-and-class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
