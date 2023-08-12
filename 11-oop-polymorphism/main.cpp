@@ -25,6 +25,14 @@ public:
 
 
 int main() {
+    Shape *shapeList[3] = {new Shape, new Circle, new Rectangle};
+    shapeList[0]->Draw();
+    shapeList[1]->Draw();
+    shapeList[2]->Draw();
+
+
+    std::cout << "-----------------------------------" << std::endl;
+
     using MultiType = std::variant<Shape, Circle, Rectangle>;
     std::vector<MultiType> shapes;
 

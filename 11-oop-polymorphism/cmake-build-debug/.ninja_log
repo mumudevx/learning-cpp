@@ -1,13 +1,7 @@
 # ninja log v5
-1	185	7135715922713462	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	d7d59b1a71811bb0
-186	226	7135715923103742	oop_polymorphism.exe	6ad4a9388223a9a7
-1	185	7135716418481571	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	d7d59b1a71811bb0
-185	226	7135716418877861	oop_polymorphism.exe	6ad4a9388223a9a7
-2	170	7135726205112712	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	d7d59b1a71811bb0
-171	208	7135726205465914	oop_polymorphism.exe	6ad4a9388223a9a7
-2	288	7135726454508890	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	d7d59b1a71811bb0
-289	342	7135726455020053	oop_polymorphism.exe	6ad4a9388223a9a7
-2	301	7135726907880945	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	d7d59b1a71811bb0
-301	354	7135726908400116	oop_polymorphism.exe	6ad4a9388223a9a7
 2	306	7135731809615827	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	d7d59b1a71811bb0
 306	361	7135731810152243	oop_polymorphism.exe	6ad4a9388223a9a7
+2	319	7135738171353234	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	3cdec2582cb9c255
+319	375	7135738171899671	oop_polymorphism.exe	6ad4a9388223a9a7
+1	319	7135738451027011	CMakeFiles/oop_polymorphism.dir/main.cpp.obj	3cdec2582cb9c255
+325	381	7135738451625373	oop_polymorphism.exe	6ad4a9388223a9a7
