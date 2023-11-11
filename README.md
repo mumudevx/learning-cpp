@@ -4,6 +4,8 @@ It contains several compilable cpp projects written and notes obtained during th
 ## Books / Resources
 - [Roadmap](https://roadmap.sh/cpp)
 - [ChatGPT](https://chat.openai.com)
+- [W3Schools](https://www.w3schools.com/cpp/)
+- [CPlusPlus](https://cplusplus.com/doc/tutorial/)
 
 ## Debugging / Tools
 - [Valgrind](https://valgrind.org/)
