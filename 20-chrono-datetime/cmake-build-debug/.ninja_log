@@ -1,0 +1,15 @@
+# ninja log v5
+1	215	7214214456228467	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+216	256	7214214456612074	20_chrono_datetime.exe	72978c0d15193b5e
+1	206	7214214577624895	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+207	243	7214214577968079	20_chrono_datetime.exe	72978c0d15193b5e
+2	209	7214214667706109	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+209	246	7214214668064927	20_chrono_datetime.exe	72978c0d15193b5e
+2	208	7214215661176135	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+208	246	7214215661536770	20_chrono_datetime.exe	72978c0d15193b5e
+2	208	7214215796988671	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+208	246	7214215797336769	20_chrono_datetime.exe	72978c0d15193b5e
+2	228	7214217757278901	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+228	271	7214217757678636	20_chrono_datetime.exe	72978c0d15193b5e
+2	221	7214217999199695	CMakeFiles/20_chrono_datetime.dir/main.cpp.obj	de1220976b2d528e
+221	259	7214217999557485	20_chrono_datetime.exe	72978c0d15193b5e

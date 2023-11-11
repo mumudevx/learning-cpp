@@ -1,0 +1,3 @@
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/stl-algorithms/cmake-build-debug/CMakeFiles/stl_algorithms.dir
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/stl-algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/stl-algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
