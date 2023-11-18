@@ -1,0 +1,3 @@
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/25-tempalte-specialization/cmake-build-debug/CMakeFiles/25_tempalte_specialization.dir
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/25-tempalte-specialization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/25-tempalte-specialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

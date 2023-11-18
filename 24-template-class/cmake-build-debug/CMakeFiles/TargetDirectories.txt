@@ -1,0 +1,3 @@
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/24-template-class/cmake-build-debug/CMakeFiles/24_template_class.dir
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/24-template-class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Muhsin/Documents/GitHub/mumudevx/learning-cpp/24-template-class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
