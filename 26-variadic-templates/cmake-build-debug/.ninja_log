@@ -1,0 +1,5 @@
+# ninja log v5
+0	205	7220550712087168	CMakeFiles/26_variadic_templates.dir/main.cpp.obj	8d46535cfc7b78df
+206	256	7220550712573468	26_variadic_templates.exe	c760bb1b5be48523
+2	228	7220568803311554	CMakeFiles/26_variadic_templates.dir/main.cpp.obj	8d46535cfc7b78df
+228	276	7220568803772030	26_variadic_templates.exe	c760bb1b5be48523
