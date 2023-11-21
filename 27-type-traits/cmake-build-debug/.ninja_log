@@ -1,0 +1,15 @@
+# ninja log v5
+0	260	7223004106905644	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+261	304	7223004107325977	27_type_traits.exe	89ab9b679cf868e5
+2	214	7223007482178544	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+215	259	7223007482599465	27_type_traits.exe	89ab9b679cf868e5
+2	226	7223012348221313	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+226	265	7223012348595276	27_type_traits.exe	89ab9b679cf868e5
+2	244	7223012535802855	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+244	282	7223012536163000	27_type_traits.exe	89ab9b679cf868e5
+2	211	7223014028034652	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+211	255	7223014028451436	27_type_traits.exe	89ab9b679cf868e5
+2	207	7223014241595544	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+207	248	7223014241988823	27_type_traits.exe	89ab9b679cf868e5
+2	191	7223014884674552	CMakeFiles/27_type_traits.dir/main.cpp.obj	18be43e656cf04ed
+192	233	7223014885068815	27_type_traits.exe	89ab9b679cf868e5
